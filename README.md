@@ -1,4 +1,4 @@
-## Hi there 👋
+## 😀 Hi there 👋
 
 <!--
 **kennn1510/kennn1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
